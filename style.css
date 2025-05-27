@@ -60,3 +60,8 @@ footer {
   background: #333;
   color: white;
 }
+
+nav ul li a.active {
+  border-bottom: 2px solid yellow;
+}
+
